@@ -1,0 +1,6 @@
+- 127.0.01 / 127..1 / ::1
+- try to check the port
+- try to chech all IP range ex 192.168.0.1 - 192.168.0.255
+- add /admin to path
+- check for open redirect vulnerability
+- if the sitet use white list try to use # encode

