@@ -1,0 +1,14 @@
+# Bypass 2FA
+- Brute force
+- 2FA code reusability
+- Edit Respone
+- use another user code
+
+** sometimes OTP&Token&Link return in respone-request&JS files
+** try going to profile page after login without OTP
+** try to guess how the app make the Token&OTP (maybe from time encode or something like that)
+** try default credentials => hidden pages and forgetten pages
+** try to bruteforce files
+** try to change Respone Status to 200
+
+** try analyse js functions

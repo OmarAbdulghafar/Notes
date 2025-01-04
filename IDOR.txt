@@ -1,0 +1,5 @@
+- uid = hash => search in googel&cmd5 if hash cracked
+
+** try to know how the app recognize you
+** try to change extention of the endpoint
+

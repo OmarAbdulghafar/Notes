@@ -1,0 +1,6 @@
+- try to check if the csrf token is fixed
+- try to chatch the token from any request
+- try to send request without the token or change it or reusable token
+- check Content Type
+- check Referer Header => try to manipulate
+- try to change method from POST to GET
