@@ -8,8 +8,8 @@
 # Bypass login auth
 - notice if there a diffrent between error msg ex . !
 - noticec if there is delay in respone time
-- if you get block after trying many time try to change x-forwarded for header
 
+** if you get block after trying many time try to change x-forwarded for header
 ** sometimes OTP&Token&Link return in respone-request&JS files
 ** try going to profile page after login without OTP
 ** try to guess how the app make the Token&OTP (maybe from time encode or something like that)
