@@ -1,0 +1,10 @@
+Methodolgy :  Detect => Identify => Exploit (read - explore - attack)
+
+Syntax usually {{$payload}}  ex {{7*7}} return 49
+
+TIP: Generated PDF files, invoices and emails usually use a template
+
+In most cases, this polyglot payload will trigger an error in presence of a SSTI vulnerability:
+${{<%[%'"}}%\.
+
+
