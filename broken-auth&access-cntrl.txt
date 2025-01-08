@@ -11,8 +11,8 @@
 
 # OAuth
 Like sign in by google&facebook
-redirect_uri = the place you will redirect to after login
-code =  TOKEN (as cookies)
+redirect_uri = the place you will redirect to after login  # this is maximun impact you can get by open redirect (ACC TakeOver) by access TOKEN
+code =  TOKEN (as cookies)  # when app need your data it will send this token in API Call to end point in ex google to get your data
 state = (as csrf)
 
 

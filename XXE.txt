@@ -1,3 +1,5 @@
+#Syntax
+
 <?xml version="1.0"?>                     #meta data
 <!DOCTYPE note [
     <!ELEMENT name "omar">                #Entity -> like variable
@@ -7,6 +9,3 @@
     <age> 24 </age>
     <name> $name </name>                  #children
 </user?>
-
-
-
