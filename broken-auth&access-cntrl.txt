@@ -23,5 +23,5 @@ state = (as csrf)
 ** try default credentials => hidden pages and forgetten pages
 ** try to bruteforce files
 ** try to change Respone Status to 200
-
+** try to one of parameter
 ** try analyse js functions

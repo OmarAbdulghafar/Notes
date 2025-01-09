@@ -1,0 +1,6 @@
+How to test
+    - Add Origin header
+    - Notice in respone Access-Control-Allow-Origon : Domain.com
+                        Access-Control-Allow-Credential : True or False
+
+** Try null Origin (<iframe sandbox="allow-script" src="JS Code">)
