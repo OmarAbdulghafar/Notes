@@ -1,0 +1,8 @@
+Notice how server check your input
+    - file extention
+    - file content-type # image/png & image/svg+xml 
+    - file content
+
+** try to escape server check by null byte & magic bytes
+** notice if server take too much time to check then try race condition
+** if dev use black list try (Aa - uncommon extention - double extention - null byte - new line)
